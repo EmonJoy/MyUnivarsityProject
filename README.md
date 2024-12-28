@@ -1,6 +1,6 @@
 # MyUnivarsityProject
 
-The Project is OnGoing,,,,I will update as soon as the work done
+The Project is OnGoing,,,,I will upload the full code as soon as the work done
 
 
 
